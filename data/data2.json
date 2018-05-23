@@ -1,20 +1,20 @@
 [
 {
-"titulo":"titulo1",
-"descripcion":"Esto se ha cambiado en el Json2",
-"imagen":"img1.jpg",
-"fecha":"10/10/2018"
+"titulo":"Bienvenidos a las Fallas de Desafío",
+"descripcion":"Las fallas de desafío otorgan a los jugadores la oportunidad de intentar retos con clases y equipaciones nuevas. ¿Nunca las habéis probado? ¡Seguid leyendo para saber qué son, cómo jugarlas y las recompensas que podéis obtener!",
+"imagen":"img8.jpg",
+"fecha":"19/12/2017"
 },
 {
-"titulo":"titulo1",
-"descripcion":"Esto se ha cambiado en el Json2",
-"imagen":"img2.jpg",
-"fecha":"10/10/2018"
+"titulo":"Diablo en la BlizzCon 2017",
+"descripcion":"Un viento gélido sopla en el sur de California, y pronto traerá una nevada de Blizzard al Anaheim Convention Center. Diablo no es una excepción: tenemos regalos reservados para nuestros queridos nephalem, tanto si venís a la convención como si la veis desde casa.",
+"imagen":"img9.jpg",
+"fecha":"19/10/2017"
 },
 {
-"titulo":"titulo1",
-"descripcion":"Esto se ha cambiado en el Json2",
-"imagen":"img3.jpg",
-"fecha":"10/10/2018"
+"titulo":"Notas del parche 2.6.0 de Diablo III",
+"descripcion":"¡El parche 2.6.0 de Diablo III ya está disponible en Europa para PC, PlayStation 4 y Xbox One! Consultad las notas del parche completas para PC para informaros de los últimos cambios. Haced clic aquí para ver las notas del parche para consolas.",
+"imagen":"img10.jpg",
+"fecha":"24/10/2017"
 }
 ]
