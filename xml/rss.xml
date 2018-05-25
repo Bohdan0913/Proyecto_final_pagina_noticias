@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+ <title>Noticias Diablo 3</title>
+ <link>https://rawgit.com/Bohdan0913/Proyecto_final_pagina_noticias/master/news.html</link>
+ <description>Pagina web de noticias</description>
+ <item>
+  <title>Parche 2.2 ya Disponible</title>
+  <link>https://rawgit.com/Bohdan0913/Proyecto_final_pagina_noticias/master/news.html</link>
+  <description>El parche 2.2 ya esta disponible en tu servidor, échale un vistazo para saber que es lo que ha cambiado de tus personajes, y a todos los demás cambios que hay en el juego, tanto de objetos como sets, mapas, etc.</description>
+ </item>
+ <item>
+  <title>¡Nuevo Personaje ya disponible!</title>
+  <link>https://rawgit.com/Bohdan0913/Proyecto_final_pagina_noticias/master/news.html</link>
+  <description>Por fin ha llegado el momento que tanto esperabais muchos de vosotros, el nuevo personaje "Nigromante" ya esta disponible en tu servidor, compralo ya, no seas el ultimo quien no lo tenga.</description>
+ </item>
+</channel>
+
+</rss>
