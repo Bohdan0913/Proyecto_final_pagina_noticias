@@ -20,7 +20,20 @@
 
 //------------------------
 
+//Intento del Scroll:
+//$(function(){
 
+//$(window).scroll(function(){
+		
+//		console.log("ScrollTop: "+ $(window).scrollTop()+
+//			700 + $(window).height() +
+//		100 + $(document).height() + 70);
+
+//		if($(window).scrollTop() + $(window).height() + 50 >= $(document).height()){
+//		alert("bottom!");
+//			}
+//		});
+//	});
 
 //con JSON:
 // dentro de windows onload
