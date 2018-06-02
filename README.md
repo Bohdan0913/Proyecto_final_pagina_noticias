@@ -17,5 +17,9 @@ En la parte superior tenemos “navbar” que es la barra de navegación, contie
 - Y por último en la parte inferior tenemos el El footer que es la parte inferior de una estructura web en la que generalmente se incluyen links de navegación, enlaces de interés, copyright o botones a las redes sociales del site. 
 
 ## Noticias:
-- - Al entrar en la página solo se verán tres noticias, pero en total tenemos nueve, de las primeras tres noticias tenemos que tener acceso a dos, para ello he creado dos HTMLs aparte con el contenido de las primeras dos noticias, para acceder a ellas se tiene que hacer clic en la imagen o el título de la noticia.
-- - Al entrar en la página solo se verán tres noticias, pero en total tenemos nueve, de las primeras tres noticias tenemos que tener acceso a dos, para ello he creado dos HTMLs aparte con el contenido de las primeras dos noticias, para acceder a ellas se tiene que hacer clic en la imagen o el título de la noticia.
+ - Al entrar en la página solo se verán tres noticias, pero en total tenemos nueve, de las primeras tres noticias tenemos que tener acceso a dos, para ello he creado dos HTMLs aparte con el contenido de las primeras dos noticias, para acceder a ellas se tiene que hacer clic en la imagen o el título de la noticia.
+ - Al entrar en la página solo se verán tres noticias, pero en total tenemos nueve, de las primeras tres noticias tenemos que tener acceso a dos, para ello he creado dos HTMLs aparte con el contenido de las primeras dos noticias, para acceder a ellas se tiene que hacer clic en la imagen o el título de la noticia.
+
+## Cargar las noticias:
+- Para que se puedan cargas las seis noticias al hacer clic en el botón o bajar el scroll he creado dos archivos JSON ubicados en la carpeta llamada DATA, con el contenido de esas seis noticias.
+- El contenido de los JSON se añade a la página mediante JavaScript, al hacer clic en el botón o bajar el scroll el JavaScript crea dentro de la “row” de las noticias otras tres columnas y en estas columnas introduce el contenido que hay en el primer JSON, y exactamente igual con las últimas tres noticias, coge el contenido del segundo JSON y lo introduce en las últimas tres columnas.
