@@ -31,4 +31,4 @@ En la parte superior tenemos “navbar” que es la barra de navegación, contie
 ##
 - Vista Móvil:
 
-![Imagen vertical](https://github.com/Bohdan0913/Proyecto_final_pagina_noticias/blob/master/img/movil.jpg)
+![Imagen vertical](https://github.com/Bohdan0913/Proyecto_final_pagina_noticias/blob/master/img/m.jpg)
