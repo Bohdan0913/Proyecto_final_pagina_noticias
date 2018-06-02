@@ -32,3 +32,6 @@ En la parte superior tenemos “navbar” que es la barra de navegación, contie
 - Vista Móvil:
 
 ![Imagen vertical](https://github.com/Bohdan0913/Proyecto_final_pagina_noticias/blob/master/img/movil.jpg)
+
+## Conclusión:
+- He conseguido crear las nueve notícias, al principio me he encontrado con problemas para hacer funcionar el JSON pero luego lo he resuelto, también he tenido algunos problemas con ajustar las columnas en la row para que queden bien, también lo solucioné, lo que no he logrado hacer es crear un botón que desactive el scroll.
