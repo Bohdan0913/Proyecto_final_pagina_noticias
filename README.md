@@ -23,3 +23,7 @@ En la parte superior tenemos “navbar” que es la barra de navegación, contie
 ## Cargar las noticias:
 - Para que se puedan cargas las seis noticias al hacer clic en el botón o bajar el scroll he creado dos archivos JSON ubicados en la carpeta llamada DATA, con el contenido de esas seis noticias.
 - El contenido de los JSON se añade a la página mediante JavaScript, al hacer clic en el botón o bajar el scroll el JavaScript crea dentro de la “row” de las noticias otras tres columnas y en estas columnas introduce el contenido que hay en el primer JSON, y exactamente igual con las últimas tres noticias, coge el contenido del segundo JSON y lo introduce en las últimas tres columnas.
+
+## Estructura en papel:
+- Vista Desktop:
+![Imagen vertical](https://github.com/Bohdan0913/Proyecto_final_pagina_noticias/blob/master/img/Desktop.jpg)
