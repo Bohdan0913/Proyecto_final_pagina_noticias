@@ -1,8 +1,8 @@
-# Proyecto_final_pagina_noticias
+# Proyecto_final_pagina_noticias:
 + RawGit de JSON1: https://rawgit.com/Bohdan0913/Proyecto_final_pagina_noticias/master/data/data1.json
 + Link Pagina Web: https://rawgit.com/Bohdan0913/Proyecto_final_pagina_noticias/master/news.html
 
-## Correcciones
+## Correcciones:
 + Poner la frase de debajo de DIABLO 3 como título en news1 y en news2
 + Asignar una clase de boostrap al botón de cargar más noticias
 + Añadir la etiqueta “meta description” en todos los documentos HTML
@@ -15,3 +15,7 @@ En la parte superior tenemos “navbar” que es la barra de navegación, contie
 - Más abajo tenemos “jumbotron” que contiene el titulo principal de la página y una imagen que se cambia cada 7 segundos.
 - Ahora llegamos a la parte del contenido, para ello hemos creado un “Container-fluid” que contiene 2 “divs” que tienen las imágenes de anuncios, un “div” está oculto en modo Móvil y visible en modo Desktop y viceversa, con esto conseguimos que cuando estamos en pantalla móvil nos aparece un “div” con unas medidas específicas para móvil y cuando cambiamos a Desktop nos aparece otro “div” con otras medidas específicas para la pantalla. Después de los “divs” tenemos un  “div” con clase “row” que contiene las 3 columnas de las noticias, la “row” lo que hace es agrupar horizontalmente a varias columnas, más abajo tenemos otra “row” que contiene el botón, esta “row” está fiera del contenedor.
 - Y por último en la parte inferior tenemos el El footer que es la parte inferior de una estructura web en la que generalmente se incluyen links de navegación, enlaces de interés, copyright o botones a las redes sociales del site. 
+
+## Noticias:
+- - Al entrar en la página solo se verán tres noticias, pero en total tenemos nueve, de las primeras tres noticias tenemos que tener acceso a dos, para ello he creado dos HTMLs aparte con el contenido de las primeras dos noticias, para acceder a ellas se tiene que hacer clic en la imagen o el título de la noticia.
+- - Al entrar en la página solo se verán tres noticias, pero en total tenemos nueve, de las primeras tres noticias tenemos que tener acceso a dos, para ello he creado dos HTMLs aparte con el contenido de las primeras dos noticias, para acceder a ellas se tiene que hacer clic en la imagen o el título de la noticia.
