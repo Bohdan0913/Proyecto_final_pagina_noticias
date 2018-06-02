@@ -27,4 +27,9 @@ En la parte superior tenemos “navbar” que es la barra de navegación, contie
 ## Estructura en papel:
 - Vista Desktop:
 ![Imagen vertical](https://github.com/Bohdan0913/Proyecto_final_pagina_noticias/blob/master/img/Desktop.jpg)
-![Imagen horizontal](https://github.com/Bohdan0913/Proyecto_final_pagina_noticias/blob/master/img/Movil.jpg)
+##
+##
+-
+-
+- Vista Móvil:
+![Imagen vertical](https://github.com/Bohdan0913/Proyecto_final_pagina_noticias/blob/master/img/Movil.jpg)
