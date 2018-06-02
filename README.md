@@ -12,4 +12,6 @@
 ## Estructura:
 - Para crear la estructura de la página web hemos usado Boostrap.
 En la parte superior tenemos “navbar” que es la barra de navegación, contiene acceso a las demás páginas web de mi proyecto, también tiene una imagen pequeña que representa un “D” de Diablo 3.
-- dasd
+- Más abajo tenemos “jumbotron” que contiene el titulo principal de la página y una imagen que se cambia cada 7 segundos.
+- Ahora llegamos a la parte del contenido, para ello hemos creado un “Container-fluid” que contiene 2 “divs” que tienen las imágenes de anuncios, un “div” está oculto en modo Móvil y visible en modo Desktop y viceversa, con esto conseguimos que cuando estamos en pantalla móvil nos aparece un “div” con unas medidas específicas para móvil y cuando cambiamos a Desktop nos aparece otro “div” con otras medidas específicas para la pantalla. Después de los “divs” tenemos un  “div” con clase “row” que contiene las 3 columnas de las noticias, la “row” lo que hace es agrupar horizontalmente a varias columnas, más abajo tenemos otra “row” que contiene el botón, esta “row” está fiera del contenedor.
+- Y por último en la parte inferior tenemos el El footer que es la parte inferior de una estructura web en la que generalmente se incluyen links de navegación, enlaces de interés, copyright o botones a las redes sociales del site. 
