@@ -1,6 +1,6 @@
 # Proyecto_final_pagina_noticias:
 + RawGit de JSON1: https://rawgit.com/Bohdan0913/Proyecto_final_pagina_noticias/master/data/data1.json
-+ Link Pagina Web: https://rawgit.com/Bohdan0913/Proyecto_final_pagina_noticias/master/news.html
++ Link Pagina Web: https://rawgit.com/Bohdan0913/Proyecto_final_pagina_noticias/Minify/news.html
 
 ## Correcciones:
 + Poner la frase de debajo de DIABLO 3 como título en news1 y en news2
