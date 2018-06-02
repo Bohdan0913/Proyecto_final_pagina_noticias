@@ -8,3 +8,8 @@
 + Añadir la etiqueta “meta description” en todos los documentos HTML
 + Corregir el contenido de las etiquetas “meta” en los documentos news1 y news2 
 + Hacer que las noticias se carguen al bajar el scroll
+
+## Estructura:
+- Para crear la estructura de la página web hemos usado Boostrap.
+En la parte superior tenemos “navbar” que es la barra de navegación, contiene acceso a las demás páginas web de mi proyecto, también tiene una imagen pequeña que representa un “D” de Diablo 3.
+- dasd
